@@ -10,7 +10,7 @@ clc;
 
 %%  Initialization
 
-K = 16; %   amount of clusters
+K = 16; %   amount of clusters, num of colours to be used
 epoch = 50; %   num of times for computing k-means
 input_image = 'image.jpg';
 output_image = 'image_compressed.jpg';
